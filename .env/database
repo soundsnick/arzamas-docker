@@ -1,0 +1,3 @@
+POSTGRES_USER=arzamas
+POSTGRES_PASSWORD=arzamas
+POSTGRES_DB=arzamas
